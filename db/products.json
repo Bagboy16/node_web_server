@@ -1,0 +1,39 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "iPhone 12",
+            "descripcion": "Teléfono inteligente de última generación",
+            "precio": 299,
+            "cantidad": 6
+        },
+        {
+            "id": 2,
+            "nombre": "Samsung Galaxy S21",
+            "descripcion": "Potente teléfono Android",
+            "precio": 249,
+            "cantidad": 8
+        },
+        {
+            "id": 3,
+            "nombre": "MacBook Pro",
+            "descripcion": "Portátil de alto rendimiento",
+            "precio": 1499,
+            "cantidad": 3
+        },
+        {
+            "id": 4,
+            "nombre": "Google Pixel 5",
+            "descripcion": "Teléfono Android con cámara de alta calidad",
+            "precio": 699,
+            "cantidad": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Dell XPS 13",
+            "descripcion": "Portátil ultradelgado y potente",
+            "precio": 1299,
+            "cantidad": 1
+        }
+    ]
+}
